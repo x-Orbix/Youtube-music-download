@@ -29,7 +29,8 @@ python main.py
 ```
 
 Po spuštění zadej název videa nebo přímý YouTube odkaz, vyber video z výsledků vyhledávání (pokud jsi zadal název) a zvol požadovanou kvalitu MP3.
-
+## Stažení
+Je zde hotová `.exe` v [reales](https://github.com/x-Orbix/Youtube-music-download/releases)
 ## Sestavení do .exe (volitelné)
 
 ```bash
