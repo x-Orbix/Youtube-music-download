@@ -9,6 +9,8 @@ Jednoduchý nástroj pro stahování audia z YouTube ve formátu MP3 přímo z p
 - Výběr kvality MP3 (128–320 kbps)
 - Automatická kontrola a stažení `ffmpeg`, pokud chybí
 - Progress bar během stahování
+## Stažení
+Je zde hotová `.exe` v [reales](https://github.com/x-Orbix/Youtube-music-download/releases) a není k tomu potřeba žádná knihovna.
 
 ## Požadavky
 
@@ -29,8 +31,7 @@ python main.py
 ```
 
 Po spuštění zadej název videa nebo přímý YouTube odkaz, vyber video z výsledků vyhledávání (pokud jsi zadal název) a zvol požadovanou kvalitu MP3.
-## Stažení
-Je zde hotová `.exe` v [reales](https://github.com/x-Orbix/Youtube-music-download/releases)
+
 ## Sestavení do .exe (volitelné)
 
 ```bash
